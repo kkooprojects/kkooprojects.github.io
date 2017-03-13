@@ -1,4 +1,4 @@
-levels = [];
+var levels = [];
 
 levels[0] = {
 	rows: 5,
